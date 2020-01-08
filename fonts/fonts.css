@@ -1,0 +1,31 @@
+@font-face {
+font-family: 'Gotham Pro Bold';
+src: url('../fonts/GothamPro-Bold.eot');
+src: url('../fonts/GothamPro-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/GothamPro-Bold.woff') format('woff'),
+url('../fonts/GothamPro-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Myriad Pro Light';
+src: url('../fonts/MyriadPro-Light.eot');
+src: url('../fonts/MyriadPro-Light.eot?#iefix') format('embedded-opentype'),
+url('../fonts/MyriadPro-Light.woff') format('woff'),
+url('../fonts/MyriadPro-Light.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Gotham Pro Medium';
+src: url('../fonts/GothamPro-Medium.eot');
+src: url('../fonts/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+url('../fonts/GothamPro-Medium.woff') format('woff'),
+url('../fonts/GothamPro-Medium.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+font-family: 'GoodDog', arial;
